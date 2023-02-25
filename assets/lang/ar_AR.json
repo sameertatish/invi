@@ -1,0 +1,22 @@
+{
+    "userName" : "اسم المستخدم",
+    "password" : "كلمة المرور",
+    "plzEnterUsPas" : "الرجاء ادخال اسم المستخدم وكلمة المرور",
+    "arabic":"عربي",
+    "english":"Eng",
+    "wToSDC":"مرحبًا بكم في عيادة شريباتي لطب الأسنان ",
+    "welcomTo" : "مرحبا بكم",
+    "shrebatyDentalClinic" : "في عيادة شريباتي للأسنان",
+    "freeVirtualConsultattion":"استشارة مجانية افتراضية",
+    "ourServices":"خدماتنا",
+    "makeAnAppontment":"إحجز موعد",
+    "contactUs":"تواصل معنا",
+    "aboutUs":"معلومات عنا",
+    "logIn":"تسجيل دخول",
+    "allRequierd":"كل الحقول مطلوبة",
+    "inviAligner":"تقويم غير مرئي",
+    "invi":"تقويم",
+    "aligner":"غير مرئي",
+    "iHaveAlreadyStartedTreatment":"لقد بدأت فعلا بالعلاج",
+    "iWantToKnowMoreAboutIt":"لا, أريد ان اعرف أكثر حول التقويم الغير مرئي"
+}

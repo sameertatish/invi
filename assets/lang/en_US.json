@@ -1,0 +1,22 @@
+{
+    "userName" : "User Name",
+    "password" : "Password",
+    "plzEnterUsPas" : "Please Enter Your User Name And Password",
+    "arabic":"Arabic",
+    "english":"Eng",
+    "wToSDC":"WELCOME TO SHREBATY DENTAL CLINIC",
+    "welcomTo" : "WELCOME TO",
+    "shrebatyDentalClinic" : "SHREBATY DENTAL CLINIC",
+    "freeVirtualConsultattion":"FREE VIRTUAL CONSULTATION",
+    "ourServices":"OUR SERVICES",
+    "makeAnAppontment":"MAKE AN APPOINTMENT",
+    "contactUs":"CONTACT US",
+    "aboutUs":"ABOUT",
+    "logIn":"Log In",
+    "allRequierd":"All Requierd",
+    "inviAligner":"INVI ALIGNER",
+    "invi":"INVI",
+    "aligner":"ALIGNER",
+    "iHaveAlreadyStartedTreatment":"I HAVE ALREADY START INVI TREATMENT",
+    "iWantToKnowMoreAboutIt":"NO, I WANT TO KNOW MORE ABOUT INVI ALIGNER"
+}
